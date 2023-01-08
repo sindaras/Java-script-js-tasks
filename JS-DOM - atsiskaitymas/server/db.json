@@ -1,0 +1,32 @@
+{
+  "dogs": [
+    {
+      "id": "1",
+      "breed": "Afgan Hound Dog",
+      "age": "5",
+      "chiped": true,
+      "chipped": true
+    },
+    {
+      "id": "2",
+      "breed": "Airedale Terrier Dog",
+      "age": "7",
+      "chiped": false,
+      "chipped": false
+    },
+    {
+      "id": "3",
+      "breed": "Akita Dog",
+      "age": "4",
+      "chiped": true,
+      "chipped": true
+    },
+    {
+      "id": "4",
+      "breed": "Basset Hound Dog",
+      "age": "8",
+      "chiped": false,
+      "chipped": true
+    }
+  ]
+}
