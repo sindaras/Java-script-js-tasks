@@ -9,5 +9,5 @@ Program files are divided in two folders. Server and client folders. Server fold
 Requests examples can be viewed using [Postman](https://www.postman.com/downloads/). Request examples are given in [Postman File](./dogs.postman_collection.json), which can you import in program.
 
 ## Code View
-)
-You can view code in Visual studio instance using [this link](https://github.com/sindaras/Java-script-js-tasks
+
+You can view code in Visual studio instance using [this link](https://github.com/sindaras/Java-script-js-tasks/tree/main/JS-DOM%20-%20atsiskaitymas
